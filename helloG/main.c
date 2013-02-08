@@ -11,5 +11,7 @@ int main(void) {
 
 	printf("Second step! wuhu");
 
+	printf("Third step! wuhu");
+
 	return 0;
 }
