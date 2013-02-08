@@ -9,5 +9,7 @@
 int main(void) {
 	printf("Hello World!");
 
+	printf("Second step! wuhu");
+
 	return 0;
 }
