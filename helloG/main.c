@@ -13,5 +13,7 @@ int main(void) {
 
 	printf("Third step! wuhu");
 
+	printf("4th step!");
+
 	return 0;
 }
